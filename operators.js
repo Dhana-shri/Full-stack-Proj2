@@ -16,7 +16,3 @@ console.log(2<3 && 3>2 );
 
 console.log(2>3 || 3>2 );
 console.log(2>3 || 3>2 );
-
-
-
-
